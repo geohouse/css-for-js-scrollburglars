@@ -148,6 +148,7 @@ a {
 
 .heading-decoration {
   position: absolute;
+  overflow: hidden;
   top: -25px;
   right: 0px;
   width: 75px;
